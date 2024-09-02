@@ -22,7 +22,7 @@ This project is a Python-based implementation of the Flappy Bird game, enhanced 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/flappy-bird-ai.git
+   git clone https://github.com/snehpatel03/flappy-bird-ai
    cd flappy-bird-ai
 2. **Install Dependencies**:
    Ensure you have Python installed. Then, install the required Python packages:
