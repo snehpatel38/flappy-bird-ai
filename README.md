@@ -1,5 +1,9 @@
 # Flappy Bird AI Evolution
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+![NEAT-Python](https://img.shields.io/badge/NEAT-Python-orange?logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-2.0-green?logo=pygame&logoColor=white)
+
 This project is a Python-based implementation of the Flappy Bird game, enhanced with AI using the NEAT (NeuroEvolution of Augmenting Topologies) algorithm. The AI learns to play the game by evolving neural networks over time, adapting to increasingly difficult levels.
 
 ## Features
