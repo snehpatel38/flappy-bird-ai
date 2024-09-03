@@ -31,6 +31,7 @@ This project is a Python-based implementation of the Flappy Bird game, enhanced 
 3. **Run the Game**:
    Start the game with:
    ```bash
+   
    python flappy_bird.py
 
 ## 🚀 How It Works
